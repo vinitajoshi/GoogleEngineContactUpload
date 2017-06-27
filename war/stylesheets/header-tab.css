@@ -1,0 +1,36 @@
+.site-nav {border-bottom:0px solid #810541;padding:0 6.25%}
+ .site-nav ul {padding:0;margin:0;font-size:22px;padding:8px 0;font-weight:597;}
+ .site-nav li {display:inline;background:#ffffff;padding:0 7px 0 14px}
+ .site-nav li:first-child {background:none;padding-left:0} 
+ .site-nav a {color: green;text-decoration:none;border:0}
+
+
+.divClass {
+	margin-bottom: 10px;
+	font-family: Arial, Geneva, sans-serif; 
+	font-size:14px;  
+	font-style:normal;   
+	line-height:14px;
+	}
+.mainDiv {padding-left: 20px;}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+    font-family: Arial, Geneva, sans-serif; 
+	font-size:14px;  
+	font-style:normal;   
+	line-height:14px;
+}
+
+.h3txt{
+	padding: 40px 100px 0px 200px;
+	color: #299b8e;	
+	font-family: Arial, Geneva, sans-serif; 
+	font-size:22px;  
+	font-style:normal;  
+	font-weight:bold;  
+	line-height:22px;
+}
